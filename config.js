@@ -50,10 +50,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'THE nips-ʙᴏᴛ'
+global.botname = 'nipsy'
 global.premium = 'true'
-global.packname = 'NIPS┃ᴮᴼᵀ' 
-global.author = '@NIPS NS' 
+global.packname = 'nipsy' 
+global.author = 'nipsy' 
 global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
